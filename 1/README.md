@@ -1,8 +1,8 @@
 # 再次开始
 
-原名：[_**The End of the Beginning**_](https://www.portkey-archive.org/story/9147)_\*\*\*\*_
+原名：[_**The End of the Beginning**_](https://www.portkey-archive.org/story/9147)
 
-作者：[**CA Crawford**](https://www.portkey-archive.org/author/99410)\*\*\*\*
+作者：[**CA Crawford**](https://www.portkey-archive.org/author/99410)
 
 {% hint style="success" %}
 **已完成**
