@@ -6,11 +6,9 @@
 * [Harry Potter Fanfiction](https://harrypotterfanfiction.com/)
 * [哈赫吧](https://tieba.baidu.com/f?kw=%E5%93%88%E8%B5%AB&ie=utf-8)
 
-{% hint style="info" %}
-小说 CP 主要为哈赫。
-{% endhint %}
+### 注意事项：
 
-{% hint style="info" %}
+小说 CP 主要为哈赫。
+
 基本不翻译 R 级或 NC17 级的小说。
-{% endhint %}
 
