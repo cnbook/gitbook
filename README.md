@@ -7,7 +7,7 @@
 * [哈赫吧](https://tieba.baidu.com/f?kw=%E5%93%88%E8%B5%AB&ie=utf-8)
 
 {% hint style="info" %}
-小说 ****CP 主要为哈赫。
+小说 CP 主要为哈赫。
 {% endhint %}
 
 {% hint style="info" %}
